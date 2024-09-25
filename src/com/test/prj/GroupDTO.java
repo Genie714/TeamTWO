@@ -6,8 +6,59 @@ public class GroupDTO
 {
 
 	private String id, creation_id, open_date, name, introduction, root, count, user_id
-				 , creation_date, group_id, content, type_id, match_id, signup_id, answer_id, question_id;
+				 , creation_date, group_id, content, type_id, match_id, signup_id, answer_id, question_id, memberCount, end_date
+				 , question, answer, answer_date;
 	
+	public String getQuestion()
+	{
+		return question;
+	}
+
+	public void setQuestion(String question)
+	{
+		this.question = question;
+	}
+
+	public String getAnswer()
+	{
+		return answer;
+	}
+
+	public void setAnswer(String answer)
+	{
+		this.answer = answer;
+	}
+
+	public String getAnswer_date()
+	{
+		return answer_date;
+	}
+
+	public void setAnswer_date(String answer_date)
+	{
+		this.answer_date = answer_date;
+	}
+
+	public String getEnd_date()
+	{
+		return end_date;
+	}
+
+	public void setEnd_date(String end_date)
+	{
+		this.end_date = end_date;
+	}
+
+	public String getMemberCount()
+	{
+		return memberCount;
+	}
+
+	public void setMemberCount(String memberCount)
+	{
+		this.memberCount = memberCount;
+	}
+
 	private String[] answers;
 	private String[] questionIds;
 

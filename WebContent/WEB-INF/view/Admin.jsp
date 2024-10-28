@@ -441,7 +441,7 @@ String admin_id = (String) request.getSession().getAttribute("admin_id");
                         <th scope="row">1</th>
                         <td>문예원</td>
                         <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
+                        <td><a href="#" class="text-primary fw-bold">신고 테스트 001</a></td>
                         <td>CR005</td>
                         <td><span class="badge bg-success">처리 완료</span></td>
                       </tr>
@@ -449,90 +449,19 @@ String admin_id = (String) request.getSession().getAttribute("admin_id");
                         <th scope="row">2</th>
                         <td>문예원</td>
                         <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
+                        <td><a href="#" class="text-primary fw-bold">신고 테스트 002</a></td>
+                        <td>CR003</td>
                         <td><span class="badge bg-danger">미처리</span></td>
                       </tr>
                       <tr>
-                        <th scope="row">1</th>
+                        <th scope="row">3</th>
                         <td>문예원</td>
                         <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
+                        <td><a href="#" class="text-primary fw-bold">신고 테스트 003</a></td>
+                        <td>CR001</td>
                         <td><span class="badge bg-success">처리 완료</span></td>
                       </tr>
-                      <tr>
-                        <th scope="row">2</th>
-                        <td>문예원</td>
-                        <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
-                        <td><span class="badge bg-danger">미처리</span></td>
-                      </tr>
-                      <tr>
-                        <th scope="row">1</th>
-                        <td>문예원</td>
-                        <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
-                        <td><span class="badge bg-success">처리 완료</span></td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2</th>
-                        <td>문예원</td>
-                        <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
-                        <td><span class="badge bg-danger">미처리</span></td>
-                      </tr>
-                      <tr>
-                        <th scope="row">1</th>
-                        <td>문예원</td>
-                        <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
-                        <td><span class="badge bg-success">처리 완료</span></td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2</th>
-                        <td>문예원</td>
-                        <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
-                        <td><span class="badge bg-danger">미처리</span></td>
-                      </tr>
-                      <tr>
-                        <th scope="row">1</th>
-                        <td>문예원</td>
-                        <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
-                        <td><span class="badge bg-success">처리 완료</span></td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2</th>
-                        <td>문예원</td>
-                        <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
-                        <td><span class="badge bg-danger">미처리</span></td>
-                      </tr>
-                      <tr>
-                        <th scope="row">1</th>
-                        <td>문예원</td>
-                        <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
-                        <td><span class="badge bg-success">처리 완료</span></td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2</th>
-                        <td>문예원</td>
-                        <td>문대진</td>
-                        <td><a href="#" class="text-primary complaint-content">과도한팀프로젝트 업무를 주고 방관한 죄! 해온걸 다시 다른걸로 바꾸라한 죄!</a></td>
-                        <td>CR005</td>
-                        <td><span class="badge bg-danger">미처리</span></td>
-                      </tr>
+                      
                       
                       
                     </tbody>
@@ -552,7 +481,6 @@ String admin_id = (String) request.getSession().getAttribute("admin_id");
                    <thead>
                       <tr>
                         <th scope="col">Num</th>
-                        <th scope="col">Image</th>
                         <th scope="col">Name</th>
                         <th scope="col">introduction</th>
                         <th scope="col">Count</th>
@@ -563,8 +491,6 @@ String admin_id = (String) request.getSession().getAttribute("admin_id");
                     <c:forEach var="item" items="${groupList }" varStatus="status">
                       <tr>
                         <td>${status.count }</td>
-                        <th scope="row"><a href="#"><img src="assets/img/product-1.jpg" alt=""></a></th>
-                        <!-- <th scope="row"><a href="#"><img src="${item.root}" alt=""></a></th> -->
                         <td><a href="#" class="text-primary fw-bold">${item.name }</a></td>
                         <td>${item.introduction }</td>
                         <td class="fw-bold">${item.count }</td>
